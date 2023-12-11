@@ -1,7 +1,7 @@
 # Desktop Cleanup Script
 
 ## Introduction
-This Bash script automates the cleaning of your desktop by moving screenshots from your desktop to a designated folder. It's designed to help keep your workspace organized and clutter-free.
+This Bash script automates the cleaning of your desktop by moving screenshots/files from your desktop to a designated folder. It's designed to help keep your workspace organized and clutter-free.
 
 **Main Features:**
 - Automatically moves files from the desktop to a specific folder.
