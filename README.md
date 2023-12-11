@@ -16,7 +16,7 @@ This Bash script automates the cleaning of your desktop by moving screenshots fr
 To use this script, first clone the repository to your local machine. You can do this by running:
 
 ```bash
-git clone [repository-url]
+git clone https://github.com/ai2464/Desktop-Cleanup-Script.git
 ```
 ## Usage
 
